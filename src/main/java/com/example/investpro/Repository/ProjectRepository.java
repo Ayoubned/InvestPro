@@ -1,7 +1,8 @@
 package com.example.investpro.Repository;
 
-import com.example.investpro.Module.Project;
+import com.example.investpro.Model.Project;
 import org.springframework.data.jpa.repository.JpaRepository;
+//import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository

@@ -1,6 +1,6 @@
 package com.example.investpro.Service;
 
-import com.example.investpro.Module.Project;
+import com.example.investpro.Model.Project;
 import com.example.investpro.Repository.ProjectRepository;
 import org.hibernate.service.spi.ServiceException;
 import org.springframework.beans.factory.annotation.Autowired;

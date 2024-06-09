@@ -1,6 +1,6 @@
 package com.example.investpro.Controller;
 
-import com.example.investpro.Module.Project;
+import com.example.investpro.Model.Project;
 import com.example.investpro.Service.ProjectService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

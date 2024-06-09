@@ -1,6 +1,6 @@
 package com.example.investpro.Service;
 
-import com.example.investpro.Module.User;
+import com.example.investpro.Model.User;
 import com.example.investpro.Repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
